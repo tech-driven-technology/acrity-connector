@@ -214,3 +214,5 @@ published with both a mutable `:latest` tag and an immutable `:<version>` tag â€
 ## Support
 
 Open an issue in this repository, or contact your Acrity administrator.
+
+Visit [Acrity](https://acrity.io).
