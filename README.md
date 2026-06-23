@@ -2,7 +2,7 @@
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/01a8b1d2-83db-4610-8e49-3c98e101e9de" />
 </div>
 
-# ▷|◁ Acrity Connector
+## ▷|◁ Acrity Connector
 
 The **Acrity Connector** is the on-premises agent for **Acrity** (Adversarial Code
 Review). It runs inside your own network and lets Acrity's cloud review pipeline reach
